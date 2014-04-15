@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Camping booking and checkout views feature.
+ */
+
+include_once 'camping_booking_and_checkout_views.features.inc';
